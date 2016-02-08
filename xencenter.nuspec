@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>xencenter</id>
+    <title>xencenter (Install)</title>
+    <version>6.5.0.2</version>
+    <authors>LordMike</authors>
+    <owners>Citrix</owners>
+    <summary>XenCenter for managing XenServer hypervisor hosts</summary>
+    <description>XenCenter is a Windows-based management tool for XenServer environments which enables users to manage and monitor XenServer hosts and resource pools, and to deploy, monitor, manage and migrate virtual machines. 
+    </description>
+    <projectUrl>https://github.com/xenserver/xenadmin</projectUrl>
+    <packageSourceUrl>http://xenserver.org/open-source-virtualization-download.html</packageSourceUrl>
+    <projectSourceUrl>https://github.com/xenserver/xenadmin</projectSourceUrl>
+    <bugTrackerUrl>https://github.com/LordMike/xencenter-chocolatey</bugTrackerUrl>
+    <tags>xencenter xenserver citrix</tags>
+    <copyright>Citrix</copyright>
+    <licenseUrl>https://github.com/xenserver/xenadmin/blob/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
