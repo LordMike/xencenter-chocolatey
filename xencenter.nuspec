@@ -12,10 +12,12 @@
     <projectUrl>http://xenserver.org/open-source-virtualization-download.html</projectUrl>
     <packageSourceUrl>https://github.com/LordMike/xencenter-chocolatey</packageSourceUrl>
     <projectSourceUrl>https://github.com/xenserver/xenadmin</projectSourceUrl>
-    <tags>xencenter xenserver citrix</tags>
+    <tags>xencenter xenserver citrix admin</tags>
     <copyright>Citrix</copyright>
     <licenseUrl>https://github.com/xenserver/xenadmin/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
+	<iconUrl>https://raw.githubusercontent.com/xenserver/xenadmin/master/Branding/Images/AppIcon.ico</iconUrl>
+	<releaseNotes>https://github.com/xenserver/xenadmin/blob/master/ChangeLog</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
