@@ -10,9 +10,8 @@
     <description>XenCenter is a Windows-based management tool for XenServer environments which enables users to manage and monitor XenServer hosts and resource pools, and to deploy, monitor, manage and migrate virtual machines. 
     </description>
     <projectUrl>http://xenserver.org/open-source-virtualization-download.html</projectUrl>
-    <packageSourceUrl>http://xenserver.org/open-source-virtualization-download.html</packageSourceUrl>
+    <packageSourceUrl>https://github.com/LordMike/xencenter-chocolatey</packageSourceUrl>
     <projectSourceUrl>https://github.com/xenserver/xenadmin</projectSourceUrl>
-    <bugTrackerUrl>https://github.com/LordMike/xencenter-chocolatey</bugTrackerUrl>
     <tags>xencenter xenserver citrix</tags>
     <copyright>Citrix</copyright>
     <licenseUrl>https://github.com/xenserver/xenadmin/blob/master/LICENSE</licenseUrl>
